@@ -1,0 +1,11 @@
+import java.util.scanner;
+class ALpha{
+public static void main(string[].qwe){
+Scanner scan=new Scanner(System.in);
+char ch=scan.next().charAt(0);
+if(character.isLetter(ch))
+System.out.println("Alphabet");
+else
+System.out.println("Nope");
+}
+}
