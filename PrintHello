@@ -1,0 +1,12 @@
+import java.util.Scanner;
+class PrintVanakkam{
+public static void main(String[].qwe){
+scanner scan=new Scanner(System.in)
+int N=scan.nextInt();
+int a=1;
+while(a<=N)
+System.out.println("Hello");
+a++;
+
+}
+}
